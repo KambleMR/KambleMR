@@ -1,8 +1,11 @@
 # 💫 About Me:
-<h2>I'm, Mukesh Kamble
-Recently completed my post graduation in MCA from M.S. Bidve Engineering College, Latur, with a strong focus on Java Full Stack Development through Naresh I Technologies, Hyderabad. <br>
-🚀My skillset includes frontend technologies like HTML, CSS, JavaScript, and ReactJS, complemented by backend expertise in Java Core, Java Advance, Spring Boot, and database management with Oracle and MySQL. 
-I thrive on challenging problems and am dedicated to continuous learning and upskilling in the dynamic field of web application development.</h2>
+<h2>Hi, I'm Mukesh Kamble, an MCA graduate and Java Developer from Maharashtra, India.
+
+I have completed Java Full Stack Development training from Naresh IT and have hands-on experience with Java, Spring Boot, Spring MVC, Spring Data JPA, REST APIs, React.js, and MySQL.
+
+Currently, I'm working as a software developer at Eidiko System Integrator. I enjoy building real-world applications, learning new technologies, and solving programming challenges.
+
+🎓 MCA Graduate | 💻 Java Developer | 🚀 Continuous Learner</h2>
 
 
 ## 🌐 Socials:
